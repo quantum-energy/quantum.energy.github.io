@@ -1,0 +1,27 @@
+date,category,product,region,sales,quantity_sold,discount,profit
+2024-01-01,Electronics,Smartphone,North,500,1,0.05,100
+2024-01-01,Electronics,Laptop,North,1200,1,0.10,300
+2024-01-01,Furniture,Office Chair,West,150,2,0.00,50
+2024-01-02,Home,Blender,South,80,3,0.05,20
+2024-01-02,Electronics,Headphones,East,200,4,0.15,40
+2024-01-02,Furniture,Desk,North,250,1,0.00,70
+2024-01-03,Electronics,Tablet,South,300,2,0.10,60
+2024-01-03,Home,Vacuum Cleaner,West,180,1,0.05,45
+2024-01-03,Furniture,Sofa,East,600,1,0.20,100
+2024-01-04,Home,Air Purifier,North,150,1,0.05,30
+2024-01-04,Electronics,Smartwatch,West,220,2,0.10,44
+2024-01-04,Electronics,Monitor,South,400,1,0.00,80
+2024-01-05,Furniture,Bookshelf,East,130,1,0.05,26
+2024-01-05,Home,Coffee Maker,North,75,2,0.10,15
+2024-01-05,Electronics,Camera,South,550,1,0.05,110
+2024-01-06,Electronics,Laptop,East,1250,1,0.15,250
+2024-01-06,Furniture,Office Chair,North,160,1,0.00,32
+2024-01-06,Home,Toaster,West,40,2,0.05,10
+2024-01-07,Home,Blender,South,85,2,0.10,17
+2024-01-07,Electronics,Smartphone,East,520,1,0.05,104
+2024-01-07,Furniture,Desk,North,260,1,0.00,78
+2024-01-08,Electronics,Monitor,West,420,1,0.10,84
+2024-01-08,Home,Air Purifier,South,160,1,0.05,32
+2024-01-08,Furniture,Sofa,East,620,1,0.20,124
+2024-01-09,Electronics,Tablet,North,310,1,0.05,62
+2024-01-09,Home,Vacuum Cleaner,East,190,1,0.10,38
