@@ -1,5 +1,3 @@
-Here’s a personalized README.md file for the project, complete with detailed instructions and code snippets that are easy to copy and paste. This file assumes that users will be working in GitHub Codespaces, and it also includes instructions for making edits using Working Copy and Textastic.
-
 Sales Data Analysis Dashboard
 
 Welcome to the Sales Data Analysis Dashboard project! This project is designed to provide an interactive dashboard for analyzing sales data, built using Flask, Pandas, and Plotly for data visualization.
@@ -128,7 +126,6 @@ pipenv install flask pandas plotly
 	•	Run Flask app on port 8080:
 
 flask run --host=0.0.0.0 --port=8080
-
 
 
 Happy coding with your Sales Data Analysis Dashboard! Feel free to reach out if you have questions or suggestions.
